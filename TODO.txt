@@ -1,0 +1,16 @@
+Data Analysis:
+[X] Create historical dataset of trash production per country (REMEMBER THE ASSUMPTIONS OF THIS STEP)
+[] Create additional information on the ammount of plastic littered per capita
+[] Create additional information of plastic fate per country
+[] Create additional infromation of plastic entering the ocean
+
+
+Machine Learning:
+[] Create 5 different models that will forecast palstic (polymer production in the world) 
+[] 
+
+
+Data Board with Map:
+[] Find a proper instrument to create a web-info-dashboard
+[] Find a way to add the plastic 
+[] Pack everything into the docker 
